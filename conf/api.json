@@ -1,0 +1,5 @@
+{
+    "apiKey" : "<Teamwork API key>",
+    "siteName" : "<Teamwork Sitename>",
+    "dataPreference" : "json"
+}
