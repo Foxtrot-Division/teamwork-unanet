@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/Foxtrot-Division/teamwork-unanet)](https://goreportcard.com/report/github.com/Foxtrot-Division/teamwork-unanet)
 # teamwork-unanet
 Command-line utility to upload Unanet time logs to Teamwork Projects.
 Currently, this app supports parsing of the Unanet People Time Details report to
