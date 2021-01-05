@@ -80,7 +80,7 @@ go build
 Once you've downloaded the Unanet People Time Details report, run the following:
 
 ```
-.\teamwork-unanet upload -c ./conf -f <path to Unanet report>
+./teamwork-unanet upload -c ./conf -f <path to Unanet report>
 ```
 The -c option specifies the location of the configuration files (*api.json* and
 *peopletimedetails.json*).
@@ -90,7 +90,7 @@ that contains the Unanet time logs.
 
 Example:
 ```
-.\teamwork-unanet upload -c ./conf -f ./reports_private/report.csv
+./teamwork-unanet upload -c ./conf -f ./reports_private/report.csv
 ```
 If successfull, you should see the following output:
 ```
